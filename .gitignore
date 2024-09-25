@@ -1,0 +1,5 @@
+*.class
+*.properties
+*.autosave
+*.DS_Store
+*/imagesold*
