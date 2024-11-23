@@ -22,7 +22,7 @@
 ➖ magma platforms : -20  
 ➖ bottom magma : -50  
 
-## Deatails
+## Details
 
 Superjump is a game designed and created by RED group™. The original, not-open-world game is set in a fictious post-apocalyptic future world in which earth is destroyed with magma and the player, codenamed King, will have to keep jumping upward to escape the rising magma. We, Minseok, Li and Yuu at RED group™, truly hope that we may provide a pleasant game experience.
 
