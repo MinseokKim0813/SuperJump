@@ -29,3 +29,7 @@ Superjump is a game designed and created by RED group™. The original, not-open
 In the game, King jumps on platforms to go upward between repeated scene and scene. If he touches the bottom magma, the king is dead and teleported to be reborn on the nearest platform, with his one life reduced. King has three lives in total, and player loses the game when King has no life left. The platforms are randomly generated with advanced algorithms enabling them to have a certain gap in between that it’s not too high or low for the king to jump. Platforms include good ones which adds life on touch and bad ones which introduce monsters on top, touching them will decrease life by one.
 
 Moving onward, the game’s background and camera movement are also of special design. Background images are set as a dictionary with keys containing lists that include the current image and the next image to be displayed. When two images are exchanging, the keys got switched and next background image is generated. An iteration is set so that the game goes infinitely. On the other hand, if king touches the top edge of the image, background moves along with the king in a seemingly sticked manner, which makes more sense in terms of gaming.
+
+## Contribution
+
+This is a team work with github.com/mfunyu and github.com/myexcellentprograms.
